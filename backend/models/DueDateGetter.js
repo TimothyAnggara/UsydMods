@@ -33,4 +33,4 @@ function valueCallBack(value){
     }
 }
 
-getData("https://www.sydney.edu.au/units/COMP2123/2023-S1C-ND-CC");
+getData("https://www.sydney.edu.au/units/INFO1110/2023-S1C-ND-CC");
