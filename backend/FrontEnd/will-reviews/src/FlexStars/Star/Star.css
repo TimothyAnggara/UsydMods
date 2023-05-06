@@ -1,0 +1,10 @@
+.star {
+  width: fit-content;
+  height: 100%;
+  display: inline-block;
+}
+
+img {
+  width: fit-content;
+  height: 100%;
+}

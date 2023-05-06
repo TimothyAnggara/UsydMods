@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ed50b1c.css",
+    "main.js": "/static/js/main.eadd2a5e.js",
+    "static/media/Me.png": "/static/media/Me.e273164e558a2e0c8e88.png",
+    "static/media/Star.png": "/static/media/Star.263e79f1d49b35cfdf37.png",
+    "static/media/DeadStar.png": "/static/media/DeadStar.f00102969e7042e98007.png",
+    "index.html": "/index.html",
+    "main.0ed50b1c.css.map": "/static/css/main.0ed50b1c.css.map",
+    "main.eadd2a5e.js.map": "/static/js/main.eadd2a5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed50b1c.css",
+    "static/js/main.eadd2a5e.js"
+  ]
+}

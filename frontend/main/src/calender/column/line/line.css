@@ -1,0 +1,23 @@
+.line-wrapper {
+    position: absolute;
+    width: 100%;
+}
+
+.inline-wrapper {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+}
+
+.line-horizontal {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    flex-grow: 1;
+    height: 0px;
+    margin-top: 10px;
+}
+
+.line-wrapper h4 {
+    margin: 0;
+    margin-right: 10px;
+}

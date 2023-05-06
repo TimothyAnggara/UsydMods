@@ -8,6 +8,7 @@ router.get('/', (req,res) => {
 
 //Login Router
 router.post('/login', loginUser)
+
 //Signup Router
 router.post('/signup', signupUser)
 

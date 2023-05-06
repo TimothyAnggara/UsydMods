@@ -1,0 +1,27 @@
+.review {
+  background-color: white;
+  margin: auto;
+  padding: 20px;
+  max-width: 500px;
+  width: 100%;
+  border-radius: 20px;
+  margin-top: 25px;
+}
+
+.reviewHeadWrapper {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+}
+
+.one {
+  flex: 3 1;
+}
+
+.two {
+  flex: 1 1;
+}
+
+.one h3 {
+  margin: 0pc;
+}

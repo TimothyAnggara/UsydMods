@@ -1,0 +1,7 @@
+#mainBody {
+    max-width: 1000px;
+    min-width: 450px;
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+}

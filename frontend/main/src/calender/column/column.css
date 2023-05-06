@@ -1,0 +1,38 @@
+.column-wrapper {
+    height: 100vh;
+    flex: 1;
+    text-align: center;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgb(254, 254, 254);
+}
+
+.Column:last-child {
+    border-right: none;
+}
+
+.columnHeader {
+    margin-right: 0px;
+    width: 100%;
+    background-color: white;
+}
+
+.columnHeader h3 {
+    margin: 0px;
+}
+
+.selected h3 {
+    color:white;
+}
+
+.columnHeader h6 {
+    margin: 0px;
+    padding: 10px;
+}
+
+.selected {
+    height: fit-content;
+    width: 20px;
+    background-color: rgb(136, 136, 255);
+    margin: auto;
+    border-radius: 50px;
+}

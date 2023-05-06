@@ -1,0 +1,50 @@
+.header {
+  background-color: #7fa3ff;
+  height: 300px;
+  width: 100%;
+  padding-top: 25px;
+}
+
+#ME {
+  height: 300px;
+  width:fit-content;
+  margin: auto;
+}
+
+.flex-container {
+  height: 90%;
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+  display: flex;
+}
+
+.flex-child {
+  height: 100%;
+  flex: 1;
+}  
+
+.flex-child, #flexText {
+  height: 100%;
+  flex: 1;
+}  
+
+.titelWrapper {
+  margin-top: 100px;
+  width: 300px;
+}
+
+.titelWrapper h1 {
+  text-align: center;
+  margin: 0px;
+  color: white;
+  padding: 0px;
+}
+
+.titelWrapper h2 {
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
